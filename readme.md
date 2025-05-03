@@ -16,4 +16,3 @@ Username dicoding: evlinzxxx
 | Monitoring | Sistem ini menggunakan Prometheus untuk melakukan pemantauan terhadap setiap permintaan yang masuk. |
 | Kesimpulan | Proyek ini mengembangkan sistem deteksi ujaran kebencian menggunakan deep learning dengan TensorFlow dan Keras. Model dilatih dengan Hate Speech Dataset dan melalui tahap pra-pemrosesan untuk meningkatkan akurasi. Dengan arsitektur sederhana, model mencapai akurasi pelatihan 89.12% dan validasi 76.50%. Sistem ini dideploy di Railway agar dapat diakses secara online, serta menggunakan Prometheus untuk pemantauan. Dengan adanya sistem ini, diharapkan dapat membantu mengurangi penyebaran ujaran kebencian di media sosial.|
 
-##### Proyek Final Machine Learning Operations
